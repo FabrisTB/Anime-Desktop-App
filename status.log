@@ -823,3 +823,6 @@
 2024-01-07 04:08:20,501 - __main__ - INFO - Starting action
 2024-01-07 04:08:57,530 - __main__ - INFO - Processed 70 shows
 2024-01-07 04:08:57,531 - __main__ - INFO - Finished updating json
+2024-01-08 04:08:34,149 - __main__ - INFO - Starting action
+2024-01-08 04:09:24,812 - __main__ - INFO - Processed 66 shows
+2024-01-08 04:09:24,813 - __main__ - INFO - Finished updating json
